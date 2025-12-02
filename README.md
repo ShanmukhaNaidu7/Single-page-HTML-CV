@@ -3,6 +3,7 @@
 This is a single-page HTML CV/Portfolio for **Shanmukha Sai Kumar**, showcasing skills, projects, education, certifications, and contact information.
 
 ---
+🔗 **Repository Link:** [Single-page-HTML-CV](https://github.com/ShanmukhaNaidu7/Single-page-HTML-CV)
 
 ## 📄 Overview
 
