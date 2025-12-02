@@ -4,6 +4,7 @@ This is a single-page HTML CV/Portfolio for **Shanmukha Sai Kumar**, showcasing 
 
 ---
 🔗 **Repository Link:** [Single-page-HTML-CV](https://github.com/ShanmukhaNaidu7/Single-page-HTML-CV)
+🔗 **Inspiration / Reference:** [Roadmap.sh Single Page CV](https://roadmap.sh/projects/single-page-cv)
 
 ## 📄 Overview
 
